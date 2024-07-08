@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useAuthContext } from "../context/AuthContext.";
+import { useAuthContext } from "../context/AuthContext";
 import { toast } from "react-toastify"; // Assuming you have a toast notification library imported
 
 const useLogin = () => {

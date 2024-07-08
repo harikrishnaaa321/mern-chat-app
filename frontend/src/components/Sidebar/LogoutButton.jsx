@@ -22,4 +22,3 @@ const LogOutButton = () => {
 };
 
 export default LogOutButton;
-z
