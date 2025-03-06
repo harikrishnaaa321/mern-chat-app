@@ -20,7 +20,6 @@ This is a fully functional real-time chat application built using the MERN (Mong
 - **Authentication**: JWT (JSON Web Token)
 - **State Management**: React Context API
 
-## Screenshots
 
 <img width="953" alt="Image" src="https://github.com/user-attachments/assets/863a1ecd-db59-4cf4-b937-72b7ba69c2a2" />
 
